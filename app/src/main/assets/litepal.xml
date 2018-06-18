@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<litepal>
+
+    <dbname value="cool_weather" />
+
+    <version value="2" />
+
+    <list>
+        <mapping class="com.example.lifeassistant.db.Province" />
+        <mapping class="com.example.lifeassistant.db.City" />
+        <mapping class="com.example.lifeassistant.db.County" />
+    </list>
+
+</litepal>
